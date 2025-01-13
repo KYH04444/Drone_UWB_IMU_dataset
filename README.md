@@ -1,16 +1,17 @@
 # Dataset
 
-Sensors
+
+## Sensors
+- UWB: LinkTrack P-B 9ea(anchor 8ea, tag 1ea) 60 Hz   
+- IMU: UM7 20 Hz
+
+
+## Ground truth
+
+- Motion caputre system Qualisys ARQUS A5 cameras
+
+
 ---
-UWB: LinkTrack P-B 9ea(anchor 8ea, tag 1ea) 60 Hz   
-IMU: UM7 20 Hz
-
-Ground truth
----
-Motion caputre system Qualisys ARQUS A5 cameras
-
-
-
 In our experimental setup, we utilized a drone equipped
 with both a tag and an inertial measurement unit (IMU).     
 The tag was integral to the Ultra-Wideband (UWB) system, which
