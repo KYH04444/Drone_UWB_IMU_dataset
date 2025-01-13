@@ -20,4 +20,4 @@ ten Qualisys ARQUS A5 cameras, capable of operating at
 megapixels (MP).
 The MoCap system provided 3D tracking
 with ±0.06 mm resolution and a camera latency of 1.4 ms,
-with data recorded at 10 Hz for reference ground truth
+with data recorded at 10 Hz for reference ground truth.
