@@ -5,10 +5,10 @@ UWB: LinkTrack P-B 9ea(anchor 8ea, tag 1ea) 60 Hz
 IMU: UM7 20 Hz
 
 
-> In our experimental setup, we utilized a drone equipped
+In our experimental setup, we utilized a drone equipped
 with both a tag and an inertial measurement unit (IMU).     
 The tag was integral to the Ultra-Wideband (UWB) system, which
-operated at a frequency of 60 Hz using the LinkTrack P-B device.       
+operated at a frequency of 60 Hz using the LinkTrack P-B device.     
 This system included one tag and eight anchors arranged
 in a rectangular cuboid formation, spanning coordinates from
 (0, 0, 0) to (8.86, 8.00, 2.20) meters.     
